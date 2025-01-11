@@ -10,10 +10,10 @@ Started programming on scratch at the age of 9.
     - Scratch
 - Know decently:
     - Python
+    - Javascript
+    - CSS
 - Not so well but can manage:
     - HTML
-    - CSS
-    - JavaScript
     - Kotlin
 - Pain:
     - Java (Okay, well, Java isn't actually *that* bad)
