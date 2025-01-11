@@ -16,5 +16,5 @@ Started programming on scratch at the age of 9.
     - JavaScript
     - Kotlin
 - Pain:
-    - Java
+    - Java (Okay, well, Java isn't actually *that* bad)
     - ASM-x86_64
