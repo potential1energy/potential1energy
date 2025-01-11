@@ -1,13 +1,14 @@
-Started programming on scratch at the age of 9. (15 y/o as of writing)
+Started programming on scratch at the age of 9.
+15 y/o as of writing.
 
-### Languages I can (Maybe) program in:
+### Languages I can (maybe) program in:
 - Know very well:
     - C++
     - C
     - GLSL
     - Lua
     - Scratch
-- Know decently
+- Know decently:
     - Python
 - Not so well but can manage:
     - HTML
