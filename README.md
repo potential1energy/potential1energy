@@ -1,6 +1,6 @@
 Started programming on scratch at the age of 9. (15 y/o as of writing)
 
-### Languages I know:
+### Languages I can (Maybe) program in:
 - Know very well:
     - C++
     - C
